@@ -1,4 +1,4 @@
-# 🧑‍💻 Kyle’s Personal Portfolio – direxxi
+# 🧑‍💻 My Personal Portfolio – direxxi
 
 This is my personal portfolio website, designed and developed to showcase my work, skills, and journey as a frontend developer. It includes sections for projects, images, and visual creativity, all wrapped in a clean and responsive design.
 
